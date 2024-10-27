@@ -3,3 +3,11 @@ py -m pip install mysql-connector-python
 
 2) mysql connector documentation
 https://dev.mysql.com/doc/connector-python/en/connector-python-example-cursor-transaction.html
+
+
+DAO meaning file name
+# data access object 
+
+
+3) install Flask
+py -m pip install Flask
